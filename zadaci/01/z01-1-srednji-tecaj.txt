@@ -1,0 +1,1 @@
+Napisati python aplikaciju koja s web stranice HNB-a skida srednji tečaj eura.
