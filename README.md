@@ -1,2 +1,2 @@
 # pywo-zadaci
-Zadaci za PyWo 2015
+Zadaci i bilješke za radionicu PyWo 2015
