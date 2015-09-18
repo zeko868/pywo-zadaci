@@ -1,0 +1,22 @@
+html {
+    font-size: 100%;
+    background-image: url("http://www.hdwallpapers.in/walls/abstract_color_background_picture_8016-wide.jpg");
+    background-repeat: no-repeat;
+}
+
+div#menu ul li p {
+    display: block;
+    text-align: center;
+    border: solid 3px red;
+    background-color: yellow;
+    color: red;
+    text-transform: capitalize;
+    float: left;
+    font-size: 1.2em;
+}
+div#content p {
+    text-align: justify;
+}
+div#footer p {
+    font-size: 0.8em;
+}

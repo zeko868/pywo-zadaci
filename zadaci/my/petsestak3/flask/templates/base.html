@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{%block title %}</title> TITLE {% endblock %} </title>
+        <link rel="stylesheet" type="text/css" href="stilovi.css" />
+    </head>
+title, menu, content, footer
+    
+    <body>
+        
+        <div id="menu">
+        {% block menu %}
+            MENU BLOCK
+        {% endblock %}
+        </div>
+        
+        <div id="content">
+        {% block content%}
+            CONTENT BLOCK
+        {% endblock %}
+        </div>
+        
+        <div id="footer">
+        {% block footer %}
+            FOOTER BLOCK
+        {% endblock %}
+        </div>
+    </body>
+</html>
